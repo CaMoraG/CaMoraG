@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am deeply enthusiastic about technology and innovation. My journey in tech has allowed me to learn, grow, and contribute to areas that fascinate me, such as:<br><br>🤖 Artificial Intelligence: Understanding and building intelligent systems that make smarter decisions.<br><br>🌐 Web Development: Crafting responsive and dynamic applications for the web.<br><br>📱 Mobile Development: Bringing ideas to life on Android and iOS platforms.<br><br>🛠️ DevOps: Ensuring smooth deployment processes and reliable systems.<br><br>📊 Data Science: Analyzing data to uncover insights and drive decisions.</p>
+<p align="left">I am deeply enthusiastic about technology and innovation. My journey in tech has allowed me to learn, grow, and contribute to areas that fascinate me, such as:<br><br>🤖 Artificial Intelligence: Understanding and building intelligent systems that make smarter decisions.<br><br>🌐 Web Development: Crafting responsive and dynamic applications for the web.<br><br>📱 Mobile Development: Bringing ideas to life on Android.<br><br>🛠️ DevOps: Ensuring smooth deployment processes and reliable systems.<br><br>📊 Data Science: Analyzing data to uncover insights and drive decisions.</p>
 
 ###
 
